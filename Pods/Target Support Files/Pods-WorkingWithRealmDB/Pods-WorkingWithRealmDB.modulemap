@@ -1,0 +1,6 @@
+framework module Pods_WorkingWithRealmDB {
+  umbrella header "Pods-WorkingWithRealmDB-umbrella.h"
+
+  export *
+  module * { export * }
+}
